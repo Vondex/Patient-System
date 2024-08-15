@@ -33,7 +33,7 @@ This Patient Information Management System is a C-based console application desi
 3. Compile the code using a C compiler:
 
     ```sh
-    gcc -o patient_management main.c
+    gcc -o patient_management pims-main.c
     ```
 
 ## Usage
